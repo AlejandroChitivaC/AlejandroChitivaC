@@ -39,4 +39,4 @@ I am  **System Engineer** and **Full Stack Developer**. My daily work is based o
 
 ## Contact Me 😀
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alejandro-chitiva-castillo-63301b1b5)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-chitiva-castillo/)
