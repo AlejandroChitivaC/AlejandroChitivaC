@@ -2,7 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github;Bienvenido+a+mi+Github)](https://git.io/typing-svg)
 
-I am  **System Engineer** and **Full Stack Developer**. My daily work is based on the creation of applications for all types of devices, web pages, and different types of solutions that I can provide through my knowledge. In my free time I like to study, play video games, read technology articles, and participate in programming challenges. I love working in a team and collaborating on interesting projects.
+I am a student of  **System Engineer** at **Universidad El Bosque** and **Full Stack Developer**. My daily work is based on the creation of applications for all types of devices, web pages, and different types of solutions that I can provide through my knowledge. In my free time I like to study, play video games, read technology articles, and participate in programming challenges. I love working in a team and collaborating on interesting projects.
+
+I am a **Passionate about Technology**
 
 ## Skills
 
